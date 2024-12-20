@@ -1,0 +1,260 @@
+@font-face {
+  font-family: "PaulGrotesk";
+  font-weight: 400;
+  src: url("webfonts/3AA489_3_0.eot");
+  src: url("webfonts/3AA489_3_0.eot?#iefix") format("embedded-opentype"),
+    url("webfonts/3AA489_3_0.woff2") format("woff2"),
+    url("webfonts/3AA489_3_0.woff") format("woff"),
+    url("webfonts/3AA489_3_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PaulGrotesk";
+  font-weight: 600;
+  src: url("webfonts/3AA489_5_0.eot");
+  src: url("webfonts/3AA489_5_0.eot?#iefix") format("embedded-opentype"),
+    url("webfonts/3AA489_5_0.woff2") format("woff2"),
+    url("webfonts/3AA489_5_0.woff") format("woff"),
+    url("webfonts/3AA489_5_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PaulGrotesk";
+  font-weight: 700;
+  src: url("webfonts/3AA489_1_0.eot");
+  src: url("webfonts/3AA489_1_0.eot?#iefix") format("embedded-opentype"),
+    url("webfonts/3AA489_1_0.woff2") format("woff2"),
+    url("webfonts/3AA489_1_0.woff") format("woff"),
+    url("webfonts/3AA489_1_0.ttf") format("truetype");
+}
+
+/* lexend-300 - latin */
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 300;
+  src: url("webfonts/lexend-v17-latin/lexend-v17-latin-300.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("webfonts/lexend-v17-latin/lexend-v17-latin-300.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("webfonts/lexend-v17-latin/lexend-v17-latin-300.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-300.woff") format("woff"),
+    /* Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-300.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-300.svg#Lexend")
+      format("svg"); /* Legacy iOS */
+}
+/* lexend-regular - latin */
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 400;
+  src: url("webfonts/lexend-v17-latin/lexend-v17-latin-regular.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("webfonts/lexend-v17-latin/lexend-v17-latin-regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-regular.woff")
+      format("woff"),
+    /* Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-regular.svg#Lexend")
+      format("svg"); /* Legacy iOS */
+}
+/* lexend-500 - latin */
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  src: url("webfonts/lexend-v17-latin/lexend-v17-latin-500.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("webfonts/lexend-v17-latin/lexend-v17-latin-500.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("webfonts/lexend-v17-latin/lexend-v17-latin-500.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-500.woff") format("woff"),
+    /* Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-500.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-500.svg#Lexend")
+      format("svg"); /* Legacy iOS */
+}
+/* lexend-600 - latin */
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 600;
+  src: url("webfonts/lexend-v17-latin/lexend-v17-latin-600.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("webfonts/lexend-v17-latin/lexend-v17-latin-600.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("webfonts/lexend-v17-latin/lexend-v17-latin-600.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-600.woff") format("woff"),
+    /* Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-600.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-600.svg#Lexend")
+      format("svg"); /* Legacy iOS */
+}
+/* lexend-700 - latin */
+@font-face {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 700;
+  src: url("webfonts/lexend-v17-latin/lexend-v17-latin-700.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("webfonts/lexend-v17-latin/lexend-v17-latin-700.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("webfonts/lexend-v17-latin/lexend-v17-latin-700.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-700.woff") format("woff"),
+    /* Modern Browsers */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-700.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("webfonts/lexend-v17-latin/lexend-v17-latin-700.svg#Lexend")
+      format("svg"); /* Legacy iOS */
+}
+
+/* poppins-100 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 100;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-100.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 200;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-200.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-300.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-regular.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-500.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-600.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-700.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-800 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-800.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-800italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 800;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-800italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* poppins-900 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  src: url("webfonts/poppins-v20-latin/poppins-v20-latin-900.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+@font-face {
+  font-family: "GeneralSans";
+  font-weight: 400;
+  src: url('webfonts/general-sans/GeneralSans-Regular.woff2')
+  format("woff2");
+}
+
+@font-face {
+  font-family: "GeneralSans";
+  font-weight: 500;
+  src: url('webfonts/general-sans/GeneralSans-Medium.woff2')
+  format("woff2");
+}
+
+@font-face {
+  font-family: "GeneralSans";
+  font-weight: 600;
+  src: url('webfonts/general-sans/GeneralSans-Semibold.woff2')
+  format("woff2");
+}
+
+@font-face {
+  font-family: "GeneralSans";
+  font-weight: 700;
+  src: url('webfonts/general-sans/GeneralSans-Bold.woff2')
+  format("woff2");
+}
